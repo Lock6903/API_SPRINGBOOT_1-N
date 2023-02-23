@@ -1,0 +1,5 @@
+com\palomar\API\repository\ProductRepository.class
+com\palomar\API\Service\ProductService.class
+com\palomar\API\model\Product.class
+com\palomar\API\ProductController\ProductController.class
+com\palomar\API\ApiApplication.class
